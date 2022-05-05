@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.42cfca93.css",
-    "main.js": "/static/js/main.09a2f6c8.js",
-    "static/js/787.f7ef83d9.chunk.js": "/static/js/787.f7ef83d9.chunk.js",
-    "static/media/del7dz1-a838bdc7-636d-40c8-bc43-76fbc24840a6.jpeg": "/static/media/del7dz1-a838bdc7-636d-40c8-bc43-76fbc24840a6.382f4b9dd4a1a8a67de5.jpeg",
-    "static/media/del7e29-c10a9569-5d2f-4a8f-89f1-e327c3bbc54d.jpeg": "/static/media/del7e29-c10a9569-5d2f-4a8f-89f1-e327c3bbc54d.16b09d508d67d797998b.jpeg",
-    "static/media/1313186.jpeg": "/static/media/1313186.7c2ae95cb6c1b2bd6c38.jpeg",
-    "static/media/cinderella-disney-cinderella-entertainment-other-hd-art-wallpaper-preview.jpeg": "/static/media/cinderella-disney-cinderella-entertainment-other-hd-art-wallpaper-preview.e9b4170743f7894c6dcb.jpeg",
-    "static/media/jpeg": "/static/media/74fce6a8769d0a78c2d9140c2a1cdd35.5bbc4db634a754f00c44.jpeg",
-    "static/media/beauty-and-the-beast-disney-castle-rainbow-hd-wallpaper-preview.jpeg": "/static/media/beauty-and-the-beast-disney-castle-rainbow-hd-wallpaper-preview.0821c3258ddbd8c40417.jpeg",
-    "static/media/ddm5sqe-c7776925-e778-40f3-9e5f-ab83013ed63e.jpeg": "/static/media/ddm5sqe-c7776925-e778-40f3-9e5f-ab83013ed63e.1804c5311fed77d009c6.jpeg",
-    "index.html": "/index.html",
-    "main.42cfca93.css.map": "/static/css/main.42cfca93.css.map",
-    "main.09a2f6c8.js.map": "/static/js/main.09a2f6c8.js.map",
-    "787.f7ef83d9.chunk.js.map": "/static/js/787.f7ef83d9.chunk.js.map"
+    "main.css": "/disneyGallery/static/css/main.42cfca93.css",
+    "main.js": "/disneyGallery/static/js/main.07560086.js",
+    "static/js/787.f7ef83d9.chunk.js": "/disneyGallery/static/js/787.f7ef83d9.chunk.js",
+    "static/media/del7dz1-a838bdc7-636d-40c8-bc43-76fbc24840a6.jpeg": "/disneyGallery/static/media/del7dz1-a838bdc7-636d-40c8-bc43-76fbc24840a6.382f4b9dd4a1a8a67de5.jpeg",
+    "static/media/del7e29-c10a9569-5d2f-4a8f-89f1-e327c3bbc54d.jpeg": "/disneyGallery/static/media/del7e29-c10a9569-5d2f-4a8f-89f1-e327c3bbc54d.16b09d508d67d797998b.jpeg",
+    "static/media/1313186.jpeg": "/disneyGallery/static/media/1313186.7c2ae95cb6c1b2bd6c38.jpeg",
+    "static/media/cinderella-disney-cinderella-entertainment-other-hd-art-wallpaper-preview.jpeg": "/disneyGallery/static/media/cinderella-disney-cinderella-entertainment-other-hd-art-wallpaper-preview.e9b4170743f7894c6dcb.jpeg",
+    "static/media/jpeg": "/disneyGallery/static/media/74fce6a8769d0a78c2d9140c2a1cdd35.5bbc4db634a754f00c44.jpeg",
+    "static/media/beauty-and-the-beast-disney-castle-rainbow-hd-wallpaper-preview.jpeg": "/disneyGallery/static/media/beauty-and-the-beast-disney-castle-rainbow-hd-wallpaper-preview.0821c3258ddbd8c40417.jpeg",
+    "static/media/ddm5sqe-c7776925-e778-40f3-9e5f-ab83013ed63e.jpeg": "/disneyGallery/static/media/ddm5sqe-c7776925-e778-40f3-9e5f-ab83013ed63e.1804c5311fed77d009c6.jpeg",
+    "index.html": "/disneyGallery/index.html",
+    "main.42cfca93.css.map": "/disneyGallery/static/css/main.42cfca93.css.map",
+    "main.07560086.js.map": "/disneyGallery/static/js/main.07560086.js.map",
+    "787.f7ef83d9.chunk.js.map": "/disneyGallery/static/js/787.f7ef83d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42cfca93.css",
-    "static/js/main.09a2f6c8.js"
+    "static/js/main.07560086.js"
   ]
 }
